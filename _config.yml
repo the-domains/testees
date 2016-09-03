@@ -1,0 +1,14 @@
+layout_spectrum: 0.212406
+color:
+  saturation: 0.499525
+  lightness: 0.8822995
+  brandStrength: 0.4125147
+  brandColors:
+    - '#170908'
+    - '#F7F5E9'
+    - '#AD9D86'
+    - '#483528'
+    - '#E5CC9F'
+  rhythmicContrast: 0.2297297
+typography_spectrum: 0.1046366
+name: TESTEES
